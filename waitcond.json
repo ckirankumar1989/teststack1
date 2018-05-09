@@ -1,0 +1,9 @@
+{
+"Resources":{
+"WaitConditionhandle":{
+   "Type" : "AWS::CloudFormation::WaitConditionHandle",
+   "Properties" : {
+   }
+}
+}
+}
