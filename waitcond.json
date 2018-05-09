@@ -4,6 +4,11 @@
    "Type" : "AWS::CloudFormation::WaitConditionHandle",
    "Properties" : {
    }
+},
+   "WaitConditionhandle1":{
+   "Type" : "AWS::CloudFormation::WaitConditionHandle",
+   "Properties" : {
+   }
 }
 }
 }
