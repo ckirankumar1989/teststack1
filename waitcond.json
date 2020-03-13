@@ -5,7 +5,7 @@
    "Properties" : {
    }
 },
-   "WaitConditionhandle2":{
+   "WaitConditionhandle":{
    "Type" : "AWS::CloudFormation::WaitConditionHandle",
    "Properties" : {
    }
